@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+    <servlet-name>FrontServlet</servlet-name>
+    <servlet-class>etu1802.framework.servlet.FrontServlet</servlet-class>
+    
+    <servlet-mapping>
+        <servlet-name>FrontServlet</servlet-name>
+        <url-pattern>/*</url-pattern>
+    </servlet-mapping>
+</servlet>
+
